@@ -67,5 +67,7 @@ Os colaboradores desse projeto são Júnior e Juninho.
 
 ## 📑 Referências
 
+README adaptado do [OneBitCodeBlog](https://github.com/OneBitCodeBlog/onebitlife/blob/main/readme.md).
+
 
 
